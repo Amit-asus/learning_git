@@ -11,3 +11,5 @@ console.log("feature1 line 8 from feature1");
 console.log("feature1 line 9 from main");
 
 console.log("feature1 line 10 from main");
+
+console.log("feature1 line 11 from feature1");
